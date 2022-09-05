@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\bin\Debug\Lab7_14.exe.config
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\bin\Debug\Lab7_14.exe
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\bin\Debug\Lab7_14.pdb
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\obj\Debug\Lab7_14.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\obj\Debug\Lab7_14.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\obj\Debug\Lab7_14.PreSplash.resources
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\obj\Debug\Lab7_14.Properties.Resources.resources
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\obj\Debug\Lab7_14.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\obj\Debug\Lab7_14.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\obj\Debug\Lab7_14.exe
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\obj\Debug\Lab7_14.pdb
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\obj\Debug\Lab7_14.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\obj\Debug\Lab7_14.Form1.resources
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\obj\Debug\Lab7_14.Form2.resources
+C:\Users\User\Desktop\Я\Учёба\ЯП\1 курс\2 семестр\Лаб7\Lab7_14\obj\Debug\Lab7_14.Diagram.resources
